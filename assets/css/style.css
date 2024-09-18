@@ -19,7 +19,7 @@
 }
 .nav{
     width: 275px;
-    height: 911px;
+    height: 910px;
     background-color: white;
     padding: 0 8px;
 }
@@ -48,7 +48,7 @@
 .nav-items{
     width: 259px;
     height: 50.250px;
-    padding: 4px 0;
+    padding: 16px;
     outline: 1px solid red;
     display: flex;
     align-items: center;
@@ -58,6 +58,21 @@
 .nav-items span{
     font-size: 20px;
     margin: 0 16px 0 20px;
+}
+
+.nav-items span{
+    font-size: 20px;
+    color: #e7e9ea;
+}
+
+.post-button{
+    height: 52px;
+    width: 233px;
+    padding: 0px 32px 0px 32px;
+    border-radius: 40px;
+    color: white;
+    background-color: #1d9bf0;
+    margin: 115px 0px 16px 0px;
 }
 
 
